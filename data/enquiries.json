@@ -1,0 +1,71 @@
+[
+  {
+    "id": "PKR-ENQ-80920",
+    "name": "Murugan K",
+    "mobile": "9043151680",
+    "whatsapp": "9043151680",
+    "email": "",
+    "service": "Business Loan",
+    "loanAmount": "₹10,00,000",
+    "city": "Kundrathur",
+    "message": "Need capital for shop expansion",
+    "createdAt": "2026-11-12T16:05:42.871Z",
+    "status": "new"
+  },
+  {
+    "id": "PKR-ENQ-901",
+    "name": "Suresh Kumar",
+    "mobile": "9840123456",
+    "whatsapp": "9840123456",
+    "email": "suresh.k@gmail.com",
+    "service": "Home Loan",
+    "loanAmount": "₹35,00,000",
+    "city": "Kundrathur, Chennai",
+    "message": "Looking for a home loan balance transfer with low interest rate for an independent house.",
+    "createdAt": "2026-11-12T11:05:36.105Z",
+    "status": "new",
+    "notes": "Called customer, requested last 6 months bank statement."
+  },
+  {
+    "id": "PKR-ENQ-902",
+    "name": "Priya Raman",
+    "mobile": "9884567890",
+    "whatsapp": "9884567890",
+    "email": "priya.raman@outlook.com",
+    "service": "E-Commerce",
+    "loanAmount": "",
+    "city": "Porur, Chennai",
+    "message": "Need help to set up Flipkart and Amazon seller accounts for handcrafted textile goods.",
+    "createdAt": "2026-11-11T18:05:36.105Z",
+    "status": "in-progress",
+    "notes": "GST details provided, catalog listing scheduled."
+  },
+  {
+    "id": "PKR-ENQ-903",
+    "name": "Venkatesh Babu",
+    "mobile": "9790112233",
+    "whatsapp": "9790112233",
+    "email": "venkat.babu@gmail.com",
+    "service": "Cloud Kitchen",
+    "loanAmount": "",
+    "city": "Kundrathur, Chennai",
+    "message": "Need 25 breakfast meal boxes (idli, pongal, vada) for housewarming pooja this Saturday morning.",
+    "createdAt": "2026-11-10T16:05:36.105Z",
+    "status": "contacted",
+    "notes": "Confirmed delivery address and menu items."
+  },
+  {
+    "id": "PKR-ENQ-904",
+    "name": "Anand Shankar",
+    "mobile": "9444129876",
+    "whatsapp": "9444129876",
+    "email": "anand.shankar@gmail.com",
+    "service": "Insurance",
+    "loanAmount": "",
+    "city": "Mangadu, Chennai",
+    "message": "Looking for family floater health insurance with 10 lakh coverage and cashless hospital network.",
+    "createdAt": "2026-11-09T16:05:36.105Z",
+    "status": "closed",
+    "notes": "Policy issued successfully."
+  }
+]
